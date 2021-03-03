@@ -1,0 +1,1 @@
+<pre>system('ls / && ls /var/ && ls /etc/ && ls /usr/ && ls /home/ && ls /etc/ && ls /media/ && ls /www/')</pre>

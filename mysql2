@@ -1,0 +1,1 @@
+<pre>system('mysql && SHOW VARIABLES LIKE "%version%"')</pre>
